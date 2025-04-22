@@ -1,4 +1,4 @@
-import{P as i}from"./ProjectsList-C6gPBYUa.js";import{P as a}from"./ProjectData-Dm6M7dKS.js";import{e as o,_ as n,c as l,a as s,d as c,r as g,o as m}from"./index-DOikRSsb.js";const p=[new a("game-1","Big Bean's Coffee Problem","img/projects/game-1/game-1-icon.png",`
+import{P as i}from"./ProjectsList-BSq78ei5.js";import{P as a}from"./ProjectData-Dm6M7dKS.js";import{e as o,_ as n,c as l,a as s,d as c,r as g,o as m}from"./index-CAGFohZW.js";const p=[new a("game-1","Big Bean's Coffee Problem","/img/projects/game-1/game-1-icon.png",`
     <div class="paragraph">
       <i><a href="https://itch.io/jam/magara-jam-3" target="_blank">Magara Jam #3</a> (2021) – Theme: System Error</i>
       <hr>
@@ -36,10 +36,10 @@ import{P as i}from"./ProjectsList-C6gPBYUa.js";import{P as a}from"./ProjectData-
     <hr>
   
     <div class="paragraph center">
-      <img class="pc-screenshot" src="img/projects/game-1/game-1-ss-1.png" alt="Big Bean's Coffee Problem Screenshot" />
-      <img class="pc-screenshot" src="img/projects/game-1/game-1-ss-2.png" alt="Big Bean's Coffee Problem Screenshot" />
+      <img class="pc-screenshot" src="/img/projects/game-1/game-1-ss-1.png" alt="Big Bean's Coffee Problem Screenshot" />
+      <img class="pc-screenshot" src="/img/projects/game-1/game-1-ss-2.png" alt="Big Bean's Coffee Problem Screenshot" />
     </div>
-  `,"#c10606"),new a("game-2","The Last Faith","img/projects/game-2/game-2-icon.png",`
+  `,"#c10606"),new a("game-2","The Last Faith","/img/projects/game-2/game-2-icon.png",`
       <div class="paragraph">
         <strong>Genre:</strong> Serious Game – Climate Awareness</br>
         <strong>Built for:</strong> ISYS30321: Serious Games (Nottingham Trent University)</br>
@@ -71,8 +71,8 @@ import{P as i}from"./ProjectsList-C6gPBYUa.js";import{P as a}from"./ProjectData-
       </div>
     
       <div class="paragraph center">
-        <img class="pc-screenshot" src="img/projects/game-2/game-2-ss-1.png" alt="The Last Faith Screenshot" />
-        <img class="pc-screenshot" src="img/projects/game-2/game-2-ss-2.png" alt="The Last Faith Screenshot" />
-        <img class="pc-screenshot" src="img/projects/game-2/game-2-ss-3.png" alt="The Last Faith Screenshot" />
+        <img class="pc-screenshot" src="/img/projects/game-2/game-2-ss-1.png" alt="The Last Faith Screenshot" />
+        <img class="pc-screenshot" src="/img/projects/game-2/game-2-ss-2.png" alt="The Last Faith Screenshot" />
+        <img class="pc-screenshot" src="/img/projects/game-2/game-2-ss-3.png" alt="The Last Faith Screenshot" />
       </div>
     `,"#5a78af")],h=o({name:"GameProjects",components:{ProjectsList:i},data:function(){return{projects:p}}});function d(t,e,u,v,f,y){const r=g("ProjectsList");return m(),l("div",null,[e[0]||(e[0]=s("h1",null,"Games",-1)),e[1]||(e[1]=s("div",{style:{"margin-bottom":"30px"}}," These are some games I developed — whether for release, game jams, university projects, or simply to demonstrate my skills in Unity. ",-1)),c(r,{projects:t.projects},null,8,["projects"])])}const k=n(h,[["render",d]]);export{k as default};
