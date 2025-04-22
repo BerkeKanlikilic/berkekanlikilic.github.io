@@ -1,8 +1,5 @@
-// Removed unnecessary Vue import as Vue 3 does not have a default export
 import { createRouter, createWebHashHistory } from 'vue-router'
 import type { RouteRecordRaw } from 'vue-router'
-
-// Removed Vue.use(VueRouter) as it is not needed in Vue 3
 
 const routes: Array<RouteRecordRaw> = [
   {
