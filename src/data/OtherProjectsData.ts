@@ -1,7 +1,7 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    // new ProjectData("other-1", "Sultans Of Sing", "img/projects/project-6-icon.png", `
+    // new ProjectData("other-1", "Sultans Of Sing", "/img/projects/project-6-icon.png", `
     // <div class="paragraph">
     //   <strong>Sultans Of Sing</strong> is a thing of beauty that I am so proud of. It's available on Windows Store because why not.
     //   <br/>Image by <a href="https://www.pexels.com/fr-fr/@aldoalz" target="blank">Aldo Picaso</a>.

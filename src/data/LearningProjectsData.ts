@@ -1,7 +1,7 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("learning-1", "Tic-Tac-Toe", "img/projects/learning-1/tictactoe-icon-2.png", 
+    new ProjectData("learning-1", "Tic-Tac-Toe", "/img/projects/learning-1/tictactoe-icon-2.png", 
         `
         <div class="paragraph">
           <strong>Tic-Tac-Toe</strong> is a simple yet complete Unity mini game I built to learn and practice the fundamentals of Unity and C# scripting.
@@ -38,11 +38,11 @@ export default [
         </div>
         
         <div class="paragraph center">
-          <img class="phone-screenshot" src="img/projects/learning-1/tictactoe-ss-4.png" alt="Tic-Tac-Toe Screenshot" />
-          <img class="phone-screenshot" src="img/projects/learning-1/tictactoe-ss-1.png" alt="Tic-Tac-Toe Screenshot" />
-          <img class="phone-screenshot" src="img/projects/learning-1/tictactoe-ss-2.png" alt="Tic-Tac-Toe Screenshot" />
-          <img class="phone-screenshot" src="img/projects/learning-1/tictactoe-ss-3.png" alt="Tic-Tac-Toe Screenshot" />
-          <img class="phone-screenshot" src="img/projects/learning-1/tictactoe-ss-5.png" alt="Tic-Tac-Toe Screenshot" />
+          <img class="phone-screenshot" src="/img/projects/learning-1/tictactoe-ss-4.png" alt="Tic-Tac-Toe Screenshot" />
+          <img class="phone-screenshot" src="/img/projects/learning-1/tictactoe-ss-1.png" alt="Tic-Tac-Toe Screenshot" />
+          <img class="phone-screenshot" src="/img/projects/learning-1/tictactoe-ss-2.png" alt="Tic-Tac-Toe Screenshot" />
+          <img class="phone-screenshot" src="/img/projects/learning-1/tictactoe-ss-3.png" alt="Tic-Tac-Toe Screenshot" />
+          <img class="phone-screenshot" src="/img/projects/learning-1/tictactoe-ss-5.png" alt="Tic-Tac-Toe Screenshot" />
         </div>
         `, "#23bd69")
 ];

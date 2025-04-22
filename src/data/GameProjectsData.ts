@@ -1,7 +1,7 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-  new ProjectData("game-1", "Big Bean's Coffee Problem", "img/projects/game-1/game-1-icon.png", `
+  new ProjectData("game-1", "Big Bean's Coffee Problem", "/img/projects/game-1/game-1-icon.png", `
     <div class="paragraph">
       <i><a href="https://itch.io/jam/magara-jam-3" target="_blank">Magara Jam #3</a> (2021) – Theme: System Error</i>
       <hr>
@@ -39,12 +39,12 @@ export default [
     <hr>
   
     <div class="paragraph center">
-      <img class="pc-screenshot" src="img/projects/game-1/game-1-ss-1.png" alt="Big Bean's Coffee Problem Screenshot" />
-      <img class="pc-screenshot" src="img/projects/game-1/game-1-ss-2.png" alt="Big Bean's Coffee Problem Screenshot" />
+      <img class="pc-screenshot" src="/img/projects/game-1/game-1-ss-1.png" alt="Big Bean's Coffee Problem Screenshot" />
+      <img class="pc-screenshot" src="/img/projects/game-1/game-1-ss-2.png" alt="Big Bean's Coffee Problem Screenshot" />
     </div>
   `, "#c10606"),
 
-    new ProjectData("game-2", "The Last Faith", "img/projects/game-2/game-2-icon.png", `
+    new ProjectData("game-2", "The Last Faith", "/img/projects/game-2/game-2-icon.png", `
       <div class="paragraph">
         <strong>Genre:</strong> Serious Game – Climate Awareness</br>
         <strong>Built for:</strong> ISYS30321: Serious Games (Nottingham Trent University)</br>
@@ -76,9 +76,9 @@ export default [
       </div>
     
       <div class="paragraph center">
-        <img class="pc-screenshot" src="img/projects/game-2/game-2-ss-1.png" alt="The Last Faith Screenshot" />
-        <img class="pc-screenshot" src="img/projects/game-2/game-2-ss-2.png" alt="The Last Faith Screenshot" />
-        <img class="pc-screenshot" src="img/projects/game-2/game-2-ss-3.png" alt="The Last Faith Screenshot" />
+        <img class="pc-screenshot" src="/img/projects/game-2/game-2-ss-1.png" alt="The Last Faith Screenshot" />
+        <img class="pc-screenshot" src="/img/projects/game-2/game-2-ss-2.png" alt="The Last Faith Screenshot" />
+        <img class="pc-screenshot" src="/img/projects/game-2/game-2-ss-3.png" alt="The Last Faith Screenshot" />
       </div>
     `, "#5a78af")    
 ];
