@@ -1,4 +1,4 @@
-import{P as o,a as r}from"./ProjectsList-BlZtPE2g.js";import{e as n,_ as i,c as l,a as s,d as c,r as p,o as m}from"./index-ZpCKydPS.js";const h=[new o("other-1","Simple OS in Shell","/img/projects/game-1/game-1-icon.png",`
+import{P as o,a as r}from"./ProjectsList-BHdePcoZ.js";import{e as i,_ as n,c as l,a as s,d as c,r as p,o as m}from"./index-aQsTvbC9.js";const h=[new o("other-1","Simple OS in Shell","https://fakeimg.pl/300x300/",`
     <div class="paragraph">
         I made this project for my University assignment, it is a simple little shell program that let's the user do multiple things such as making new users, classifying users and similar functionalities. It also has some inbuilt and external commands that have their resemblance to a Linux shell.
     </div>
@@ -26,4 +26,4 @@ import{P as o,a as r}from"./ProjectsList-BlZtPE2g.js";import{e as n,_ as i,c as 
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="OS Screenshot" />
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="OS Screenshot" /> 
     </div>
-    `,"#c10606",!1,!0)],d=n({name:"OtherProjects",components:{ProjectsList:r},data:function(){return{projects:h}}});function u(t,e,f,g,v,j){const a=p("ProjectsList");return m(),l("div",null,[e[0]||(e[0]=s("h1",null,"Apps and Tools",-1)),e[1]||(e[1]=s("div",{style:{"margin-bottom":"30px"}}," Here are some apps and tools that I have created or significantly contributed to. ",-1)),c(a,{projects:t.projects},null,8,["projects"])])}const x=i(d,[["render",u]]);export{x as default};
+    `,"#c10606",!1,!1)],d=i({name:"OtherProjects",components:{ProjectsList:r},data:function(){return{projects:h}}});function u(t,e,f,g,v,j){const a=p("ProjectsList");return m(),l("div",null,[e[0]||(e[0]=s("h1",null,"Apps and Tools",-1)),e[1]||(e[1]=s("div",{style:{"margin-bottom":"30px"}}," Here are some apps and tools that I have created or significantly contributed to. ",-1)),c(a,{projects:t.projects},null,8,["projects"])])}const x=n(d,[["render",u]]);export{x as default};
