@@ -1,4 +1,4 @@
-import{P as i}from"./ProjectsList-3cl9MLj7.js";import{P as a}from"./ProjectData-Dm6M7dKS.js";import{e as o,_ as n,c as l,a as s,d as c,r as g,o as m}from"./index-C0S2aNg0.js";const p=[new a("game-1","Big Bean's Coffee Problem","/img/projects/game-1/game-1-icon.png",`
+import{P as a,a as i}from"./ProjectsList-BlZtPE2g.js";import{e as o,_ as n,c as l,a as s,d as c,r as g,o as m}from"./index-ZpCKydPS.js";const p=[new a("game-1","Big Bean's Coffee Problem","/img/projects/game-1/game-1-icon.png",`
     <div class="paragraph">
       <i><a href="https://itch.io/jam/magara-jam-3" target="_blank">Magara Jam #3</a> (2021) – Theme: System Error</i>
       <hr>
@@ -75,4 +75,4 @@ import{P as i}from"./ProjectsList-3cl9MLj7.js";import{P as a}from"./ProjectData-
         <img class="pc-screenshot" src="/img/projects/game-2/game-2-ss-2.png" alt="The Last Faith Screenshot" />
         <img class="pc-screenshot" src="/img/projects/game-2/game-2-ss-3.png" alt="The Last Faith Screenshot" />
       </div>
-    `,"#5a78af")],h=o({name:"GameProjects",components:{ProjectsList:i},data:function(){return{projects:p}}});function d(t,e,u,v,f,y){const r=g("ProjectsList");return m(),l("div",null,[e[0]||(e[0]=s("h1",null,"Games",-1)),e[1]||(e[1]=s("div",{style:{"margin-bottom":"30px"}}," These are some games I developed — whether for release, game jams, university projects, or simply to demonstrate my skills in Unity. ",-1)),c(r,{projects:t.projects},null,8,["projects"])])}const k=n(h,[["render",d]]);export{k as default};
+    `,"#5a78af")],h=o({name:"GameProjects",components:{ProjectsList:i},data:function(){return{projects:p}}});function d(t,e,u,v,y,f){const r=g("ProjectsList");return m(),l("div",null,[e[0]||(e[0]=s("h1",null,"Games",-1)),e[1]||(e[1]=s("div",{style:{"margin-bottom":"30px"}}," These are some games I developed — whether for release, game jams, university projects, or simply to demonstrate my skills in Unity. ",-1)),c(r,{projects:t.projects},null,8,["projects"])])}const w=n(h,[["render",d]]);export{w as default};
