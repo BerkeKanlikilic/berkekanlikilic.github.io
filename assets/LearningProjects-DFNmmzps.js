@@ -1,4 +1,4 @@
-import{P as s}from"./ProjectsList-CVZgQeeH.js";import{P as i}from"./ProjectData-Dm6M7dKS.js";import{e as o,_ as r,c,a,d as l,r as p,o as g}from"./index-B9-yqO_j.js";const d=[new i("learning-1","Tic-Tac-Toe","/img/projects/learning-1/tictactoe-icon-2.png",`
+import{P as i}from"./ProjectsList-3cl9MLj7.js";import{P as o}from"./ProjectData-Dm6M7dKS.js";import{e as s,_ as r,c,a,d as l,r as p,o as g}from"./index-C0S2aNg0.js";const d=[new o("learning-1","Tic-Tac-Toe","/img/projects/learning-1/tictactoe-icon-2.png",`
         <div class="paragraph">
           <strong>Tic-Tac-Toe</strong> is a simple yet complete Unity mini game I built to learn and practice the fundamentals of Unity and C# scripting.
           It was a hands-on exercise to understand game flow, UI updates, and logic implementation.
@@ -29,7 +29,7 @@ import{P as s}from"./ProjectsList-CVZgQeeH.js";import{P as i}from"./ProjectData-
         <div class="paragraph">
           <div class="notice">
             Windows build available on <a href="#" target="_blank">itch.io</a>.
-            Source code available on <a href="#" target="_blank">GitHub</a>.
+            Source code available on <a href="https://github.com/BerkeKanlikilic/Unity-Tic-Tac-Toe" target="_blank">GitHub</a>.
           </div>
         </div>
         
@@ -40,4 +40,4 @@ import{P as s}from"./ProjectsList-CVZgQeeH.js";import{P as i}from"./ProjectData-
           <img class="phone-screenshot" src="/img/projects/learning-1/tictactoe-ss-3.png" alt="Tic-Tac-Toe Screenshot" />
           <img class="phone-screenshot" src="/img/projects/learning-1/tictactoe-ss-5.png" alt="Tic-Tac-Toe Screenshot" />
         </div>
-        `,"#23bd69")],m=o({name:"LearningProjects",components:{ProjectsList:s},data:function(){return{projects:d}}});function h(t,e,u,T,f,j){const n=p("ProjectsList");return g(),c("div",null,[e[0]||(e[0]=a("h1",null,"Learning Lab",-1)),e[1]||(e[1]=a("div",{style:{"margin-bottom":"30px"}}," Welcome to the Learning Lab — a space dedicated to hands-on projects created for the sake of learning. Each project here was built with the goal of exploring a new concept, technology, or tool. Some are simple, some are experiments, but all helped me grow as a developer. ",-1)),l(n,{projects:t.projects},null,8,["projects"])])}const w=r(m,[["render",h]]);export{w as default};
+        `,"#23bd69")],m=s({name:"LearningProjects",components:{ProjectsList:i},data:function(){return{projects:d}}});function h(t,e,u,T,f,b){const n=p("ProjectsList");return g(),c("div",null,[e[0]||(e[0]=a("h1",null,"Learning Lab",-1)),e[1]||(e[1]=a("div",{style:{"margin-bottom":"30px"}}," Welcome to the Learning Lab — a space dedicated to hands-on projects created for the sake of learning. Each project here was built with the goal of exploring a new concept, technology, or tool. Some are simple, some are experiments, but all helped me grow as a developer. ",-1)),l(n,{projects:t.projects},null,8,["projects"])])}const w=r(m,[["render",h]]);export{w as default};

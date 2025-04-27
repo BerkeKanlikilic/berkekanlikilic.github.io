@@ -1,1 +1,0 @@
-import{_ as e,c,o as t}from"./index-B9-yqO_j.js";const o={},s={class:"http-404"};function _(a,n){return t(),c("div",s,"404 🙈")}const d=e(o,[["render",_],["__scopeId","data-v-23b096e8"]]);export{d as default};

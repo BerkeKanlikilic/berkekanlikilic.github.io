@@ -1,4 +1,4 @@
-import{P as i}from"./ProjectsList-CVZgQeeH.js";import{P as a}from"./ProjectData-Dm6M7dKS.js";import{e as o,_ as n,c as l,a as s,d as c,r as g,o as m}from"./index-B9-yqO_j.js";const p=[new a("game-1","Big Bean's Coffee Problem","/img/projects/game-1/game-1-icon.png",`
+import{P as i}from"./ProjectsList-3cl9MLj7.js";import{P as a}from"./ProjectData-Dm6M7dKS.js";import{e as o,_ as n,c as l,a as s,d as c,r as g,o as m}from"./index-C0S2aNg0.js";const p=[new a("game-1","Big Bean's Coffee Problem","/img/projects/game-1/game-1-icon.png",`
     <div class="paragraph">
       <i><a href="https://itch.io/jam/magara-jam-3" target="_blank">Magara Jam #3</a> (2021) – Theme: System Error</i>
       <hr>
