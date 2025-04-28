@@ -1,4 +1,4 @@
-import{P as s,a as i}from"./ProjectsList-CxMMHAwh.js";import{e as o,_ as n,c as l,a,d as c,r as g,o as h}from"./index-HWAHnxIB.js";const m=[new s("game-3","Hide and Don't Die","/img/projects/game-3/game-3-icon.png",`
+import{P as s,a as i}from"./ProjectsList-D9uMsbtq.js";import{e as o,_ as n,c as l,a,d as c,r as g,o as h}from"./index-7slPQZdm.js";const m=[new s("game-3","Hide and Don't Die","/img/projects/game-3/game-3-icon.png",`
     <div class="paragraph">
       <strong>Genre:</strong> Multiplayer Action</br>
       <strong>Built for:</strong> Personal Learning Project (First Multiplayer Experiment)</br>
