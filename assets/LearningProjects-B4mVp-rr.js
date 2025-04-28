@@ -1,4 +1,4 @@
-import{P as n,a as s}from"./ProjectsList-D9uMsbtq.js";import{e as o,_ as c,c as r,a as t,d as l,r as p,o as g}from"./index-7slPQZdm.js";const d=[new n("learning-1","Tic-Tac-Toe","/img/projects/learning-1/tictactoe-icon-2.png",`
+import{P as n,a as s}from"./ProjectsList-BlCmYR_g.js";import{e as o,_ as c,c as r,a as t,d as l,r as p,o as g}from"./index-CGEG_gwB.js";const d=[new n("learning-1","Tic-Tac-Toe","/img/projects/learning-1/tictactoe-icon-2.png",`
         <div class="paragraph">
           <strong>Tic-Tac-Toe</strong> is a simple yet complete Unity mini game I built to learn and practice the fundamentals of Unity and C# scripting.
           It was a hands-on exercise to understand game flow, UI updates, and logic implementation.

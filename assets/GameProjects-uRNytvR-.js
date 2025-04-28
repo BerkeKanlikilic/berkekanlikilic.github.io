@@ -1,4 +1,4 @@
-import{P as s,a as i}from"./ProjectsList-D9uMsbtq.js";import{e as o,_ as n,c as l,a,d as c,r as g,o as h}from"./index-7slPQZdm.js";const m=[new s("game-3","Hide and Don't Die","/img/projects/game-3/game-3-icon.png",`
+import{P as s,a as i}from"./ProjectsList-BlCmYR_g.js";import{e as o,_ as n,c as l,a,d as c,r as g,o as h}from"./index-CGEG_gwB.js";const m=[new s("game-3","Hide and Don't Die","/img/projects/game-3/game-3-icon.png",`
     <div class="paragraph">
       <strong>Genre:</strong> Multiplayer Action</br>
       <strong>Built for:</strong> Personal Learning Project (First Multiplayer Experiment)</br>
@@ -6,7 +6,7 @@ import{P as s,a as i}from"./ProjectsList-D9uMsbtq.js";import{e as o,_ as n,c as 
       
       <hr>
   
-      <strong>Hide and Don't Die</strong> is a competitive multiplayer game I made in <strong>2022</strong>, where one player is randomly selected as <strong>The Chosen</strong> and must catch others before time runs out. However, they can only catch players if the <strong>Golden Ball</strong> is secured at its starting place. 
+      <strong>Hide and Don't Die</strong> is a competitive multiplayer game where one player is randomly selected as <strong>The Chosen</strong> and must catch others before time runs out. However, they can only catch players if the <strong>Golden Ball</strong> is secured at its starting place. 
     </div>
     <div class="paragraph">
       Normal players must survive and sabotage The Chosen by moving the ball back to the end of a tunnel. This creates a fast-paced cycle of <strong>chasing</strong>, <strong>retrieving the ball</strong>, and <strong>strategic sabotage</strong>.
