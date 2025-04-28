@@ -1,4 +1,4 @@
-import{P as t,a}from"./ProjectsList-BUaiOzWP.js";import{e as r,_ as n,c as l,a as o,d as c,r as p,o as h}from"./index-TwgrFm5A.js";const g=[new t("other-1","Simple Shell","/img/projects/other-1/other-1-icon.png",`
+import{P as t,a}from"./ProjectsList-CxMMHAwh.js";import{e as r,_ as n,c as l,a as o,d as c,r as p,o as h}from"./index-HWAHnxIB.js";const g=[new t("other-1","Simple Shell","/img/projects/other-1/other-1-icon.png",`
     <div class="paragraph">
         This project was developed as part of a university assignment at Nottingham Trent University. It is a basic shell application for Linux, offering functionalities like user creation, user classification, and other similar tasks. The program includes both built-in and external commands that mimic a traditional Linux shell environment.
     </div>
