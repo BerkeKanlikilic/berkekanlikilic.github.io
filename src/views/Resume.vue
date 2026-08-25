@@ -3,10 +3,10 @@
     <h1>Resume</h1>
 
     <div class="paragraph">
-      I'm <strong>Berke Kanlıkılıç</strong>, a game developer and software developer based in Istanbul, Türkiye.
-      <br />I studied Computer Science (Games Technology) at Nottingham Trent University, and ever since, I've been splitting my time between full-time work and passion projects.
-      <br />By day, I work as a Game Developer at Glyde Games, building and optimizing gameplay systems.
-      By night (and weekend), I still make solo games in Unity — a tool I've used for over 6 years. I also explore Unreal Engine from time to time.
+      I'm <strong>Berke Kanlıkılıç</strong>, a Unity game developer based in Istanbul, Türkiye.
+      <br />I studied Computer Science (Games Technology) at Nottingham Trent University, and have 6+ years of hands-on experience building gameplay systems, tools, and interactive features in C#.
+      <br />I previously worked at Glyde Games, contributing to the full development cycle of Paddle Together — from production through to Steam release.
+      I am currently developing my own game as a solo developer, handling gameplay programming, systems design, and overall project direction.
       <br />
       <br />I love the mix of design, storytelling, and logic that game dev demands — and the joy of watching an idea come to life, pixel by pixel.
       <br />
@@ -29,20 +29,32 @@
       <h2>Work Experience</h2>
 
       <h3>
-        Game Developer
+        Unity Game Developer
         <span class="company-name"> · Glyde Games</span>
       </h3>
-      <h4>July 2025 - Present</h4>
-      <div>Contributing to the design, development, and optimization of gameplay systems. Responsible for implementing core mechanics, improving game performance, and collaborating with designers and artists to deliver high-quality player experiences. Work spans gameplay programming, multiplayer systems, and tools development.</div>
+      <h4>July 2025 - November 2025</h4>
+      <ul class="job-points">
+        <li>Contributed to the development of Paddle Together, a commercially released game on Steam.</li>
+        <li>Worked on gameplay systems, in-editor tools, and technical features using C# and Unity.</li>
+        <li>Supported the project through the full development lifecycle, from active production to final release.</li>
+        <li>Improved existing systems for maintainability, stability, and scalability.</li>
+        <li>Collaborated closely with designers and artists to turn gameplay requirements into practical technical solutions.</li>
+        <li>Worked on debugging, optimization, and feature implementation in a production environment.</li>
+      </ul>
       <div class="tech-stack">Unity, C#</div>
 
       <h3>
         Software Developer
-        <span class="company-name"> · Arkman Software LTD</span>
+        <span class="company-name"> · Arkman Software</span>
       </h3>
       <h4>April 2024 - July 2025</h4>
-      <div>Contributing to the development and maintenance of a large-scale web application using the .NET Framework. Responsible for implementing new features, improving backend performance, and ensuring long-term stability of the platform. Collaborate closely with cross-functional teams to deliver efficient and scalable software solutions.</div>
-      <div class="tech-stack">C#, .NET Framework, ASP.NET MVC, SQL Server, Entity Framework, JavaScript</div>
+      <ul class="job-points">
+        <li>Designed and maintained .NET Core back-end systems and SQL Server databases.</li>
+        <li>Improved API performance and reliability through optimized code and query design.</li>
+        <li>Collaborated with QA and design teams to deliver stable, tested software releases.</li>
+        <li>Gained exposure to CI/CD pipelines and cloud deployment fundamentals.</li>
+      </ul>
+      <div class="tech-stack">C#, .NET Core, SQL Server, REST APIs</div>
 
       <h2>Skills</h2>
 
@@ -51,46 +63,36 @@
         <SkillRate name="C#" :rate="5" />
         <SkillRate name="JavaScript" :rate="4" />
         <SkillRate name="SQL" :rate="4" />
-        <SkillRate name="TypeScript" :rate="3" />
-        <SkillRate name="Python" :rate="2" />
-        <SkillRate name="HTML/CSS" :rate="3" />
+        <SkillRate name="Python" :rate="3" />
+        <SkillRate name="C++" :rate="2" />
       </div>
 
       <div class="skill-set">
-        <h3>Gamedev</h3>
-        <SkillRate name="Unity (C#)" :rate="5" />
-        <SkillRate name="Unreal Engine (Blueprint/C++)" :rate="2" />
-        <SkillRate name="Shader Graph / HLSL (Unity)" :rate="3" />
-        <SkillRate name="Game Design (System Design & Mechanics)" :rate="4" />
-        <SkillRate name="2D & UI Implementation" :rate="4" />
+        <h3>Game Development</h3>
+        <SkillRate name="Unity" :rate="5" />
+        <SkillRate name="Gameplay programming" :rate="5" />
+        <SkillRate name="Tool development" :rate="4" />
+        <SkillRate name="Systems architecture" :rate="4" />
+        <SkillRate name="Debugging & optimization" :rate="4" />
       </div>
 
       <div class="skill-set">
-        <h3>Tools & Frameworks</h3>
-        <SkillRate name=".NET Framework" :rate="4" />
-        <SkillRate name="Entity Framework" :rate="4" />
-        <SkillRate name="Visual Studio" :rate="5" />
-        <SkillRate name="Git / GitHub" :rate="4" />
-        <SkillRate name="Photoshop" :rate="5" />
-      </div>
-
-      <div class="skill-set">
-        <h3>Web & Fullstack</h3>
-        <SkillRate name="ASP.NET MVC" :rate="4" />
-        <SkillRate name="Vue 3 + TypeScript" :rate="2" />
-        <SkillRate name="REST APIs" :rate="3" />
-        <SkillRate name="SQL Server" :rate="4" />
-        <SkillRate name="HTML5 / CSS3" :rate="3" />
-        <SkillRate name="Bootstrap / LESS" :rate="3" />
+        <h3>Frameworks & Tools</h3>
+        <SkillRate name="Git" :rate="4" />
+        <SkillRate name="REST APIs" :rate="4" />
+        <SkillRate name="React" :rate="3" />
+        <SkillRate name=".NET Core" :rate="4" />
+        <SkillRate name="Visual Studio / VS Code" :rate="5" />
       </div>
 
       <div style="clear:both" />
 
       <h2>Education</h2>
 
-      <h3>Nottingham Trent University - 2024</h3>
-      <h4>Computer Science (Games Technology) BSc (Hons)</h4>
-      <div>Specialty in software engineering and game development</div>
+      <h3>Nottingham Trent University</h3>
+      <h4>Sept 2021 – Sept 2023</h4>
+      <div>BSc (Hons) Computer Science (Games Technology)</div>
+      <div>Modules: Games Programming (High 1st), Software Development, AI Fundamentals, Applied Mathematics</div>
 
       <h3>Bahcesehir University - 2019</h3>
       <h4>Mechatronics Engineering</h4>
@@ -99,10 +101,10 @@
       <h2>Languages</h2>
 
       <h3>English</h3>
-      <div>Fluent (IELTS 7.2)</div>
+      <div>Professional working proficiency</div>
 
       <h3>Turkish</h3>
-      <div>My mother tongue</div>
+      <div>Native proficiency</div>
 
 
       <h2>Besides...</h2>
@@ -188,6 +190,16 @@ h4 {
 
 .tech-stack {
   font-style: italic;
+}
+
+.job-points {
+  max-width: 800px;
+  margin: 10px 0 0 0;
+  padding-left: 20px;
+}
+
+.job-points li {
+  margin-bottom: 6px;
 }
 
 .photo {
