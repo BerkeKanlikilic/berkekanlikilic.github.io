@@ -3,13 +3,12 @@
     <h1>Resume</h1>
 
     <div class="paragraph">
-      I'm <strong>Berke Kanlıkılıç</strong>, a software developer based in Istanbul, Türkiye.
+      I'm <strong>Berke Kanlıkılıç</strong>, a game developer and software developer based in Istanbul, Türkiye.
       <br />I studied Computer Science (Games Technology) at Nottingham Trent University, and ever since, I've been splitting my time between full-time work and passion projects.
-      <br />By day, I help maintain and build new features for a .NET-based web application.
-      By night (and weekend), I'm a solo game developer working in Unity — a tool I've used for over 6 years. I also explore Unreal Engine from time to time.
+      <br />By day, I work as a Game Developer at Glyde Games, building and optimizing gameplay systems.
+      By night (and weekend), I still make solo games in Unity — a tool I've used for over 6 years. I also explore Unreal Engine from time to time.
       <br />
-      <br />My goal is to go full indie and make game development my full-time path.
-      I love the mix of design, storytelling, and logic that game dev demands — and the joy of watching an idea come to life, pixel by pixel.
+      <br />I love the mix of design, storytelling, and logic that game dev demands — and the joy of watching an idea come to life, pixel by pixel.
       <br />
       <br />Outside of dev work, I’m all about traveling, long car trips, camping, fishing, and flight simulators (yes, I can cold start and land a Boeing 747).
       I also have a big soft spot for Japanese food culture — and exploring new places is always on the menu.
@@ -30,10 +29,18 @@
       <h2>Work Experience</h2>
 
       <h3>
+        Game Developer
+        <span class="company-name"> · Glyde Games</span>
+      </h3>
+      <h4>July 2025 - Present</h4>
+      <div>Contributing to the design, development, and optimization of gameplay systems. Responsible for implementing core mechanics, improving game performance, and collaborating with designers and artists to deliver high-quality player experiences. Work spans gameplay programming, multiplayer systems, and tools development.</div>
+      <div class="tech-stack">Unity, C#</div>
+
+      <h3>
         Software Developer
         <span class="company-name"> · Arkman Software LTD</span>
       </h3>
-      <h4>April 2024 - Present</h4>
+      <h4>April 2024 - July 2025</h4>
       <div>Contributing to the development and maintenance of a large-scale web application using the .NET Framework. Responsible for implementing new features, improving backend performance, and ensuring long-term stability of the platform. Collaborate closely with cross-functional teams to deliver efficient and scalable software solutions.</div>
       <div class="tech-stack">C#, .NET Framework, ASP.NET MVC, SQL Server, Entity Framework, JavaScript</div>
 
@@ -100,20 +107,20 @@
 
       <h2>Besides...</h2>
       <div>
-        <h3>I ❤️ Video games</h3>
+        <h3>Video games</h3>
         <div>I've been playing and making games for as long as I can remember. Some of my all-time favorites are Elden Ring (yes, I could not finish it yet), Satisfactory, Oxygen Not Included, and The Last of Us. I love designing them, studying them, and losing sleep over game mechanics I haven’t fully solved yet.
         </div>
 
-        <h3>I 🧡 Simulation & Flying</h3>
+        <h3>Simulation & Flying</h3>
         <div>Big fan of flight simulators — I can fly a Boeing 747 from cold start to landing. I love the realism, the challenge, and that feeling of being up in the skies without leaving my chair.</div>
 
-        <h3>I 💛 Travel & Nature</h3>
+        <h3>Travel & Nature</h3>
         <div>Long road trips, camping under the stars, fishing in silence, and discovering new cultures — that’s my kind of peace. Japan is top of the list for both food and atmosphere, but I’m always up for a new adventure.</div>
 
-        <h3>I 💚 Food</h3>
+        <h3>Food</h3>
         <div>Asian food culture has my heart. Sushi, ramen, curry, or hot pot — count me in. I also love trying local flavors when traveling, especially anything that includes rice, spice, or something grilled.</div>
 
-        <h3>I 💙 Creativity</h3>
+        <h3>Creativity</h3>
         <div>Whether it's sketching UI mockups, brainstorming game systems, or just experimenting with design in Unity, I love the creative process. I see every project — no matter how small — as a way to learn and grow.</div>
 
       </div>
