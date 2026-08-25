@@ -5,7 +5,7 @@
 
       <router-link to="/game-projects">Games</router-link>
       <!-- <router-link to="/other-projects">Other Projects</router-link> -->
-      <router-link to="/learning-lab">Learning Lab</router-link>
+      <!-- <router-link to="/learning-lab">Learning Lab</router-link> -->
 
       <!-- <div class="dropdown" @click="toggleDropdown">
         <span class="dropdown-toggle">

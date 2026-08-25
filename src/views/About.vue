@@ -9,8 +9,7 @@
       </div>
 
       <div style="margin-top: 20px;">
-        I've worked on <router-link to="/game-projects">indie games</router-link> (either to release them, to showcase my capabilities using Unity, or just to play around), <router-link to="/other-projects">non-game projects</router-link>, and contributed to <router-link to="/resume">diverse technical roles</router-link> — from enterprise apps to personal dev kits.  
-        I also experiment and build smaller prototypes in my <router-link to="/learning-lab">Learning Lab</router-link>, where I focus on learning new tech or improving specific skills through quick projects.
+        I've worked on <router-link to="/game-projects">indie games</router-link> (either to release them, to showcase my capabilities using Unity, or just to play around) and contributed to <router-link to="/resume">diverse technical roles</router-link> — from enterprise apps to personal dev kits.
       </div>
 
 

@@ -17,16 +17,16 @@ const routes: Array<RouteRecordRaw> = [
     name: 'Game Projects',
     component: () => import('../views/GameProjects.vue')
   },
-  {
-    path: '/other-projects',
-    name: 'Other Projects',
-    component: () => import('../views/OtherProjects.vue')
-  },
-  {
-    path: '/learning-lab',
-    name: 'Learning Lab',
-    component: () => import('../views/LearningProjects.vue')
-  },
+  // {
+  //   path: '/other-projects',
+  //   name: 'Other Projects',
+  //   component: () => import('../views/OtherProjects.vue')
+  // },
+  // {
+  //   path: '/learning-lab',
+  //   name: 'Learning Lab',
+  //   component: () => import('../views/LearningProjects.vue')
+  // },
   {
     path: '/contact',
     name: 'Contact',
