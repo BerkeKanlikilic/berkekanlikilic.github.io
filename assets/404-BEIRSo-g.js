@@ -1,0 +1,1 @@
+import{_ as c,c as e,o as t}from"./index-_03kT8d-.js";const o={},s={class:"http-404"};function _(a,n){return t(),e("div",s,"404 🙈")}const d=c(o,[["render",_],["__scopeId","data-v-93cbba4a"]]);export{d as default};
