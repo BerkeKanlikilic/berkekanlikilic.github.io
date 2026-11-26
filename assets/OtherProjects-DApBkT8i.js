@@ -1,11 +1,11 @@
-import{P as t,a as i}from"./ProjectsList-CYiiYTwh.js";import{e as r,_ as n,c as l,a as o,d as c,r as d,o as p}from"./index-BkPS1Fgo.js";const h=[new t("other-spotted","Spotted","/img/projects/spotted/spotted-icon.png",`
+import{P as t,a as i}from"./ProjectsList-OEKOlfmm.js";import{e as r,_ as n,c as l,a as o,d as c,r as d,o as p}from"./index-8NDpt4pK.js";const h=[new t("other-spotted","Spotted","/img/projects/spotted/spotted-icon.png",`
     <div class="paragraph">
         <strong>Type:</strong> Web App &amp; Background Service<br/>
         <strong>Role:</strong> Solo Developer<br/>
         <strong>Development:</strong> Oct 2026 – Nov 2026<br/>
         <strong>Tools:</strong> TypeScript, Node.js, PostgreSQL, Prisma, Next.js, Discord API, Twitch / Kick / YouTube APIs, Docker, Railway
         <hr>
-        <strong>Spotted</strong> finds every stream, video and clip of an indie game on Twitch, Kick and YouTube, and turns them into a moderation queue in Discord. I built it to follow the coverage of my own game, <strong>Next Station is...</strong>, and grew it into a multi-tenant product that other developers could sign up for.
+        <strong>Spotted</strong> finds every stream, video and clip of an indie game on Twitch, Kick and YouTube, and turns them into a moderation queue in Discord. I built it to follow the coverage of my own game, <strong>Next Station is...</strong>, and grew it into a multi-tenant web app with self-serve sign-up.
     </div>
 
     <div class="paragraph">
