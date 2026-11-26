@@ -8,7 +8,7 @@ export default [
         <strong>Development:</strong> Oct 2026 – Nov 2026<br/>
         <strong>Tools:</strong> TypeScript, Node.js, PostgreSQL, Prisma, Next.js, Discord API, Twitch / Kick / YouTube APIs, Docker, Railway
         <hr>
-        <strong>Spotted</strong> finds every stream, video and clip of an indie game on Twitch, Kick and YouTube, and turns them into a moderation queue in Discord. I built it to follow the coverage of my own game, <strong>Next Station is...</strong>, and grew it into a multi-tenant product that other developers could sign up for.
+        <strong>Spotted</strong> finds every stream, video and clip of an indie game on Twitch, Kick and YouTube, and turns them into a moderation queue in Discord. I built it to follow the coverage of my own game, <strong>Next Station is...</strong>, and grew it into a multi-tenant web app with self-serve sign-up.
     </div>
 
     <div class="paragraph">
