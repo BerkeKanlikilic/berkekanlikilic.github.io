@@ -1,4 +1,4 @@
-import{P as a,a as r}from"./ProjectsList-Dvltm3Cm.js";import{e as n,_ as o,c as l,a as t,d as c,r as d,o as g}from"./index-B_IdCuN3.js";const p=[new a("game-next-station","Next Station is...","/img/projects/next-station/next-station-icon.png",`
+import{P as a,a as r}from"./ProjectsList-CYiiYTwh.js";import{e as n,_ as o,c as l,a as t,d as c,r as d,o as g}from"./index-BkPS1Fgo.js";const p=[new a("game-next-station","Next Station is...","/img/projects/next-station/next-station-icon.png",`
     <div class="paragraph">
       <strong>Genre:</strong> First-Person Psychological Horror / Simulation<br/>
       <strong>Role:</strong> Solo Developer &amp; Designer<br/>
